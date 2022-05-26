@@ -65,7 +65,7 @@ require("nvim-gps").setup({
 
 installation
 ------------
-Run `install.sh`
+Clone repo and run `install.sh`
 
 editio and adding new icons
 ---------------------------
