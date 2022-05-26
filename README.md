@@ -67,6 +67,6 @@ installation
 ------------
 Clone repo and run `install.sh`
 
-editio and adding new icons
+editing and adding new icons
 ---------------------------
 Use FontForge. Project file is `boa-font.sfd`
